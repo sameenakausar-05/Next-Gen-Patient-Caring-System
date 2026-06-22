@@ -5,12 +5,19 @@
 The Next-Generation Patient Caring System is a vision-based healthcare assistance solution designed to help patients who have difficulty feeding themselves. The system uses computer vision to detect the patient's mouth position in real time. When the mouth is detected as open, an Arduino-controlled water pump automatically dispenses water through a feeding pipe, providing a safe and contactless feeding mechanism.
 
 **🚀 Features**
+
 Real-time mouth detection using computer vision
+
 Automated water dispensing based on mouth position
+
 Arduino-based motor control
+
 Contactless and user-friendly operation
+
 Integration of software and hardware components
+
 Suitable for assistive healthcare applications
+
 
 **🛠️ Technologies Used**
 Python
