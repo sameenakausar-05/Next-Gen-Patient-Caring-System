@@ -103,7 +103,7 @@ Patient
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sameena Kausar Magami**
 
 Final Year Project – Next-Generation Patient Caring System
 
